@@ -6,3 +6,4 @@ dataframe-image
 modal-client
 gradio
 streamlit==0.75.0
+folium
