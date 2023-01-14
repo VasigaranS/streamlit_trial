@@ -7,3 +7,4 @@ modal-client
 gradio
 streamlit==0.75.0
 folium
+streamlit_folium
